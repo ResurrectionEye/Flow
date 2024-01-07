@@ -198,3 +198,7 @@ body.dark .scroll svg path {
   fill: #2f3439;
   stroke: #F4F4F4;
 }
+
+.scroll {
+  opacity: .25;
+}
