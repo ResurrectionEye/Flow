@@ -190,6 +190,10 @@ body.dark .theme_:hover {
   transition: background-color .33s, color .33s, opacity .33s;
 }
 
+.scroll {
+  opacity: .25;
+}
+
 .scroll svg path {
   transition: fill .33s, stroke .33s;
 }
