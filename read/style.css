@@ -98,7 +98,7 @@ section.secure-bottom > div {
   height: fit-content;
   margin-top: auto;
   margin-bottom: 0;
-  background: transparent;
+  background: transparent !important;
 }
 
 section.secure-bottom > div > p {
